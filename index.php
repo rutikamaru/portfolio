@@ -17,9 +17,9 @@
                                         <div class="hireresumebtndiv text-center mt-4">
                                             <a href="#contact" class="text-capitalize btn btn-outline ">hire
                                                 me</a>
-                                            <a href="/assets/images/Rutika_M.pdf" class="text-capitalize btn btn-outline" target="_blank">download
+                                            <!-- <a href="/assets/images/Rutika_M.pdf" class="text-capitalize btn btn-outline" target="_blank">download
                                                 resume
-                                            </a>
+                                            </a> -->
                                         </div>
                                         <div class="social-media">
                                             <ul class="socialul text-center mt-4 p-0">
